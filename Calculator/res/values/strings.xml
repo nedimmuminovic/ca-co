@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="app_name">Calculator</string>
+    <string name="convertFrom">Convert from:</string>
+    <string name="action_settings">Settings</string>
+    <string name="convertTo">Convert to:</string>
+     <string name="btnConvert">Convert</string>
+    <string name="button9">9</string>
+    <string name="button8">8</string>
+    <string name="button7">7</string>
+    <string name="button6">6</string>
+    <string name="button5">5</string>
+    <string name="button4">4</string>
+    <string name="button3">3</string>
+    <string name="button2">2</string>
+    <string name="button1">1</string>
+    <string name="button0">0</string>
+    <string name="buttonLeftBracket">(</string>
+    <string name="buttonRightBracket">)</string>
+    <string name="plusButton">+</string>
+    <string name="minusButton">-</string>
+    <string name="multiplyButton">*</string>
+    <string name="divideButton">/</string>
+    <string name="equalButton">=</string>
+    <string name="textview"></string>
+    <string name="button18">clear</string>
+    <string name="dotButton">.</string>
+    <string name="converter">Converter</string>
+    <string name="title_activity_converter">Converter</string>
+    
+    <string-array name="spinnerValues">
+        <item>Binary</item>
+        <item>Decimal</item>
+        <item>Hexadecimal</item>
+        <item>Octal</item>
+ 
+    </string-array>
+
+
+</resources>
